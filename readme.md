@@ -1,7 +1,7 @@
 # Bienvenue sur mon projet Folochrome
 
 Folochrome est une application permettant de suivre et de lister les couleurs pour le maquettisme et le wargame des marques connues comme Vallejo ou Citadel.
-L'idée m'est venue en voyant l'application de Games Workshop, qui propose un suivi uniquement pour les couleurs Citadel. Folochrome contiendra toutes les marques qui me viendront à l'esprit.
+L'idée m'est venue en voyant l'application de Games Workshop, Citadel Color, qui propose un suivi uniquement pour les couleurs Citadel. Folochrome contiendra toutes les marques qui me viendront à l'esprit.
 
 ## Prérequis
 
