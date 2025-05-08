@@ -540,6 +540,20 @@
       "HP_equivalent": null
     },
     {
+      "ref_GC": "72.096",
+      "name": "Verdigris",
+      "citadel_equivalent": null,
+      "GA_equivalent": null,
+      "HP_equivalent": null
+    },
+    {
+      "ref_GC": "72.119",
+      "name": "Aquamarine",
+      "citadel_equivalent": null,
+      "GA_equivalent": null,
+      "HP_equivalent": null
+    },
+    {
       "ref_GC": "72.102",
       "name": "Steel Grey",
       "citadel_equivalent": null,
@@ -855,16 +869,6 @@
       "citadel_equivalent": "Ratling Grime"
     },
     {
-      "ref_xc": "72.478",
-      "name": "Phoenix Orange",
-      "citadel_equivalent": "Magmadroth Flame"
-    },
-    {
-      "ref_xc": "72.477",
-      "name": "Dreadnought Yellow",
-      "citadel_equivalent": null
-    },
-    {
       "ref_xc": "72.470",
       "name": "Zombie Flesh",
       "citadel_equivalent": null
@@ -872,11 +876,6 @@
     {
       "ref_xc": "72.453",
       "name": "Military Yellow",
-      "citadel_equivalent": null
-    },
-    {
-      "ref_xc": "72.479",
-      "name": "Seraph Red",
       "citadel_equivalent": null
     },
     {
@@ -895,11 +894,6 @@
       "citadel_equivalent": null
     },
     {
-      "ref_xc": "72.480",
-      "name": "Legacy Blue",
-      "citadel_equivalent": null
-    },
-    {
       "ref_xc": "72.464",
       "name": "Wagram Blue",
       "citadel_equivalent": null
@@ -915,26 +909,6 @@
       "citadel_equivalent": null
     },
     {
-      "ref_xc": "72.481",
-      "name": "Heretic Turquoise",
-      "citadel_equivalent": null
-    },
-    {
-      "ref_xc": "72.482",
-      "name": "Monastic Green",
-      "citadel_equivalent": null
-    },
-    {
-      "ref_xc": "72.483",
-      "name": "Viking Grey",
-      "citadel_equivalent": null
-    },
-    {
-      "ref_xc": "72.484",
-      "name": "Hospitallier Black",
-      "citadel_equivalent": null
-    },
-    {
       "ref_xc": "72.468",
       "name": "Commando Green",
       "citadel_equivalent": null
@@ -947,6 +921,72 @@
     {
       "ref_xc": "72.451",
       "name": "Khaki Drill",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xc": "72.458",
+      "name": "Demonic Skin",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xc": "72.459",
+      "name": "Fluid Pink",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xc": "72.466",
+      "name": "Armor Green",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xc": "72.467",
+      "name": "Camouflage Green",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xc": "72.457",
+      "name": "Fairy Skin"
+    }
+  ],
+  "express_color_intense": [
+    {
+      "ref_xci": "72.477",
+      "name": "Dreadnought Yellow",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xci": "72.478",
+      "name": "Phoenix Orange",
+      "citadel_equivalent": "Magmadroth Flame"
+    },
+    {
+      "ref_xci": "72.479",
+      "name": "Seraph Red",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xci": "72.480",
+      "name": "Legacy Blue",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xci": "72.481",
+      "name": "Heretic Turquoise",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xci": "72.482",
+      "name": "Monastic Green",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xci": "72.483",
+      "name": "Viking Grey",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_xci": "72.484",
+      "name": "Hospitallier Black",
       "citadel_equivalent": null
     }
   ],
