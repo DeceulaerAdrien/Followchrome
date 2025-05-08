@@ -6,6 +6,7 @@ alembic.ini
 .env-sample
 readme.md
 *.loo
+*.lo1
 
 #docker
 config/
