@@ -4,769 +4,836 @@
       "ref_gc": "72.001",
       "name": "Dead White",
       "citadel_equivalent": "White Scar",
-      "hex": "#FFFFFF",
-      "type": "game color"
-    },
-    {
-      "ref_gc": "72.002",
-      "name": "Artic White",
-      "citadel_equivalent": "White Scar",
-      "hex": "#FFFFFF",
-      "type": "game color"
+      "ga_equivalent": "76.001",
+      "hp_equivalent": null,
+      "hex": "#FFFFFF"
     },
     {
       "ref_gc": "72.003",
       "name": "Pale Flesh",
-      "citadel_equivalent": "Kislev Flesh",
-      "hex": "#EEC8C7",
-      "type": "game color"
+      "citadel_equivalent": null,
+      "ga_equivalent": "76.003",
+      "hp_equivalent": "Pale Flesh",
+      "hex": "#f6bdb3"
     },
     {
       "ref_gc": "72.004",
       "name": "Elf Skin Tone",
       "citadel_equivalent": "Kislev Flesh",
-      "hex": "#F7BD7B",
-      "type": "game color"
+      "ga_equivalent": "76.004",
+      "hp_equivalent": null,
+      "hex": "#f8a070"
     },
     {
       "ref_gc": "72.005",
-      "name": "Bad Moon Yellow",
+      "name": "Moon Yellow",
       "citadel_equivalent": "Flash Gitz Yellow",
-      "hex": "#fff103",
-      "type": "game color"
+      "ga_equivalent": "76.005",
+      "hp_equivalent": null,
+      "hex": "#fff103"
     },
     {
       "ref_gc": "72.006",
-      "name": "Sunblast Yellow",
+      "name": "Sun Yellow",
       "citadel_equivalent": "Yriel Yellow",
-      "hex": "#ffcf07",
-      "type": "game color"
+      "ga_equivalent": "76.006",
+      "hp_equivalent": "Sun Yellow",
+      "hex": "#ffcf07"
     },
     {
       "ref_gc": "72.007",
       "name": "Gold Yellow",
-      "citadel_equivalent": "Yriel Yellow",
-      "hex": "#fdb318",
-      "type": "game color"
+      "citadel_equivalent": null,
+      "ga_equivalent": "76.007",
+      "hp_equivalent": null,
+      "hex": "#fdb318"
     },
     {
       "ref_gc": "72.008",
       "name": "Orange Fire",
       "citadel_equivalent": "Fire Dragon Bright",
-      "hex": "#f1652e",
-      "type": "game color"
+      "ga_equivalent": "76.008",
+      "hp_equivalent": null,
+      "hex": "#f1652e"
     },
     {
       "ref_gc": "72.009",
       "name": "Hot Orange",
       "citadel_equivalent": "Troll Slayer Orange",
-      "hex": "#e43027",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#e43027"
     },
     {
       "ref_gc": "72.010",
       "name": "Bloody Red",
       "citadel_equivalent": "Evil Sunz Scarlet",
-      "hex": "#bf282e",
-      "type": "game color"
+      "ga_equivalent": "76.010",
+      "hp_equivalent": "Bloddy Red",
+      "hex": "#bf282e"
     },
     {
       "ref_gc": "72.011",
       "name": "Gory Red",
       "citadel_equivalent": "Wazdakka Red",
-      "hex": "#810504",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": "Gory Red",
+      "hex": "#810504"
     },
     {
       "ref_gc": "72.012",
       "name": "Scarlet Raid",
       "citadel_equivalent": "Khorne Raide",
-      "hex": "#741330",
-      "type": "game color"
+      "ga_equivalent": "76.012",
+      "hp_equivalent": "Scarlet Raid",
+      "hex": "#741330"
     },
     {
       "ref_gc": "72.013",
       "name": "Squid Pink",
       "citadel_equivalent": "Fulgrim Pink",
-      "hex": "#da7fb5",
-      "type": "game color"
+      "ga_equivalent": "76.013",
+      "hp_equivalent": null,
+      "hex": "#da7fb5"
     },
     {
       "ref_gc": "72.014",
       "name": "Warlord Purple",
       "citadel_equivalent": "Screamer Pink",
-      "hex": "#7d1a44",
-      "type": "game color"
+      "ga_equivalent": "76.014",
+      "hp_equivalent": null,
+      "hex": "#7d1a44"
     },
     {
       "ref_gc": "72.015",
       "name": "Hexed Lichen",
       "citadel_equivalent": "Xereus Purple",
-      "hex": "#34274d",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#34274d"
     },
     {
       "ref_gc": "72.016",
       "name": "Royal Purple",
-      "citadel_equivalent": "Naggaroth Night",
-      "hex": "#23264f",
-      "type": "game color"
+      "citadel_equivalent": null,
+      "ga_equivalent": "76.016",
+      "hp_equivalent": null,
+      "hex": "#23264f"
     },
     {
       "ref_gc": "72.017",
-      "name": "Dark Blue",
+      "name": "Darl Blue",
       "citadel_equivalent": null,
-      "hex": "#2b265d",
-      "type": "game color"
+      "ga_equivalent": "76.016",
+      "hp_equivalent": null,
+      "hex": "#23264f"
     },
     {
-      "ref_gc": "72.018",
-      "name": "Stormy Blue",
-      "citadel_equivalent": null,
-      "type": "game color"
-    },
-    {
-      "ref_gc": 72.019,
+      "ref_gc": "72.016",
       "name": "Night Blue",
       "citadel_equivalent": "Night Lords Blue",
-      "type": "game color"
+      "ga_equivalent": "76.019",
+      "hp_equivalent": null,
+      "hex": "#000031"
     },
     {
       "ref_gc": "72.020",
       "name": "Imperial Blue",
-      "citadel_equivalent": "Ultramarines Blue",
-      "type": "game color"
+      "citadel_equivalent": null,
+      "ga_equivalent": "76.020",
+      "hp_equivalent": null,
+      "hex": "#08085A"
     },
     {
       "ref_gc": "72.021",
       "name": "Magic Blue",
       "citadel_equivalent": "Caledor Sky",
-      "type": "game color"
+      "ga_equivalent": "76.021",
+      "hp_equivalent": "Magic Blue",
+      "hex": "#31639C"
     },
     {
       "ref_gc": "72.022",
       "name": "Ultramarine Blue",
       "citadel_equivalent": "Macragge Blue",
-      "type": "game color"
+      "ga_equivalent": "76.022",
+      "hp_equivalent": "Ultramarine Blue",
+      "hex": "#29397B"
     },
     {
       "ref_gc": "72.023",
       "name": "Electric Blue",
       "citadel_equivalent": "Lothern Blue",
-      "type": "game color"
+      "ga_equivalent": "76.023",
+      "hp_equivalent": null,
+      "hex": "#8BB9DD"
     },
     {
       "ref_gc": "72.024",
       "name": "Turquoise",
       "citadel_equivalent": "Sotek Green",
-      "type": "game color"
+      "ga_equivalent": "76.024",
+      "hp_equivalent": null,
+      "hex": "#006B5A"
     },
     {
       "ref_gc": "72.025",
       "name": "Foul Green",
       "citadel_equivalent": "Sybarite Green",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#82C59C"
     },
     {
       "ref_gc": "72.026",
       "name": "Jade Green",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.026",
+      "hp_equivalent": null,
+      "hex": "#069B7D"
     },
     {
       "ref_gc": "72.027",
       "name": "Scurvy Green",
       "citadel_equivalent": "Kabalite Green",
-      "type": "game color"
+      "ga_equivalent": "76.027",
+      "hp_equivalent": null,
+      "hex": "#026B67"
     },
     {
       "ref_gc": "72.028",
       "name": "Dark Green",
       "citadel_equivalent": "Caliban Green",
-      "type": "game color"
+      "ga_equivalent": "76.028",
+      "hp_equivalent": "Dark Green",
+      "hex": "#005221"
     },
     {
       "ref_gc": "72.029",
       "name": "Sick Green",
       "citadel_equivalent": "Warboss Green",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": "Sick Green",
+      "hex": "#106B21"
     },
     {
       "ref_gc": "72.030",
       "name": "Goblin Green",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": "Goblin Green",
+      "hex": "#63B521"
     },
     {
       "ref_gc": "72.031",
       "name": "Camouflage Green",
       "citadel_equivalent": "Elysian Green",
-      "type": "game color"
+      "ga_equivalent": "76.031",
+      "hp_equivalent": null,
+      "hex": "#A5A542"
     },
     {
       "ref_gc": "72.032",
       "name": "Scorpy Green",
       "citadel_equivalent": "Moot Green",
-      "type": "game color"
+      "ga_equivalent": "76.032",
+      "hp_equivalent": null,
+      "hex": "#A5D610"
     },
     {
       "ref_gc": "72.034",
       "name": "Bone White",
       "citadel_equivalent": "Screaming Skull",
-      "type": "game color"
+      "ga_equivalent": "76.034",
+      "hp_equivalent": "Bone White",
+      "hex": "#EFD9A8"
     },
     {
       "ref_gc": "72.035",
       "name": "Dead Flesh",
       "citadel_equivalent": "Ogryn Camo",
-      "type": "game color"
+      "ga_equivalent": "76.035",
+      "hp_equivalent": "Dead Flesh",
+      "hex": "#E7EFC6"
     },
     {
       "ref_gc": "72.036",
       "name": "Bronze Brown",
       "citadel_equivalent": "Tau Light Ochre",
-      "type": "game color"
+      "ga_equivalent": "76.036",
+      "hp_equivalent": null,
+      "hex": "#F7944A"
     },
     {
       "ref_gc": "72.038",
       "name": "Scrofulous Brown",
       "citadel_equivalent": "Bestigor Flesh",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#D88E2D"
     },
     {
       "ref_gc": "72.039",
       "name": "Plague Brown",
       "citadel_equivalent": "Balor Brown",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#C68400"
     },
     {
       "ref_gc": "72.040",
       "name": "Leather Brown",
       "citadel_equivalent": "XV88",
-      "type": "game color"
+      "ga_equivalent": "76.040",
+      "hp_equivalent": "Leather Brown",
+      "hex": "#9C6B08"
     },
     {
       "ref_gc": "72.042",
       "name": "Parasite Brown",
       "citadel_equivalent": "Skrag Brown",
-      "type": "game color"
+      "ga_equivalent": "76.042",
+      "hp_equivalent": "Parasite Brown",
+      "hex": "#843910"
     },
     {
       "ref_gc": "72.043",
       "name": "Beasty Brown",
       "citadel_equivalent": "Parasite Brown",
-      "type": "game color"
+      "ga_equivalent": "76.043",
+      "hp_equivalent": "Parasite Brown",
+      "hex": "#663300"
     },
     {
       "ref_gc": "72.044",
       "name": "Dark Fleshtone",
       "citadel_equivalent": "Doombull Brown",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#630808"
     },
     {
       "ref_gc": "72.045",
       "name": "Charred Brown",
       "citadel_equivalent": "Rinox Hide",
-      "type": "game color"
+      "ga_equivalent": "76.045",
+      "hp_equivalent": null,
+      "hex": "#390008"
     },
     {
       "ref_gc": "72.047",
       "name": "Wolf Grey",
       "citadel_equivalent": "Blue Horror",
-      "type": "game color"
+      "ga_equivalent": "76.047",
+      "hp_equivalent": "Wolf Grey",
+      "hex": "#CEDEE7"
     },
     {
       "ref_gc": "72.048",
       "name": "Sombre Grey",
       "citadel_equivalent": "The Fang",
-      "type": "game color"
+      "ga_equivalent": "76.048",
+      "hp_equivalent": "Sombre Grey",
+      "hex": "#4E5067"
     },
     {
       "ref_gc": "72.049",
       "name": "Stonewall Grey",
       "citadel_equivalent": "Dawnstone",
-      "type": "game color"
+      "ga_equivalent": "76.049",
+      "hp_equivalent": null,
+      "hex": "#B5B5B5"
     },
     {
       "ref_gc": "72.050",
       "name": "Neutral Grey",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.050",
+      "hp_equivalent": null,
+      "hex": "#999999"
     },
     {
       "ref_gc": "72.051",
       "name": "Black",
       "citadel_equivalent": "Abaddon Black",
-      "type": "game color"
-    },
-    {
-      "ref_gc": "72.052",
-      "name": "Silver",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.053",
-      "name": "Chainmail",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.054",
-      "name": "Dark Gunmetal",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.055",
-      "name": "Polished Gold",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.056",
-      "name": "Glorious Gold",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.057",
-      "name": "Bright Bronze",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.058",
-      "name": "Brassy Brass",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.059",
-      "name": "Hammered Copper",
-      "type": "game color mettalic"
-    },
-    {
-      "ref_gc": "72.060",
-      "name": "Tinny Tin",
-      "type": "game color mettalic"
+      "ga_equivalent": "76.051",
+      "hp_equivalent": null,
+      "hex": "#000000"
     },
     {
       "ref_gc": "72.061",
       "name": "Khaki",
       "citadel_equivalent": "Zandri Dust",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#9B8C7B"
     },
     {
       "ref_gc": "72.062",
       "name": "Earth",
       "citadel_equivalent": "Steel Legion Drab",
-      "type": "game color"
+      "ga_equivalent": "76.062",
+      "hp_equivalent": null,
+      "hex": "#655138"
     },
     {
       "ref_gc": "72.063",
       "name": "Desert Yellow",
       "citadel_equivalent": "Tallarn Sand",
-      "type": "game color"
+      "ga_equivalent": "76.063",
+      "hp_equivalent": "Desert Yellow",
+      "hex": "#9C8855"
     },
     {
       "ref_gc": "72.066",
       "name": "Tan",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#A95C3E"
     },
     {
       "ref_gc": "72.067",
       "name": "Cayman Green",
       "citadel_equivalent": "Castellan Green",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#455440"
     },
     {
       "ref_gc": "72.071",
       "name": "Barbarian Skin",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.071",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.076",
       "name": "Alien Purple",
       "citadel_equivalent": "Daemonette Hide",
-      "type": "game color"
-    },
-    {
-      "ref_gc": "72.082",
-      "name": "White",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.083",
-      "name": "Magenta",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.084",
-      "name": "Dark Turquoise",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.085",
-      "name": "Yellow",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.086",
-      "name": "Red",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.087",
-      "name": "Violet",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.088",
-      "name": "Blue",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.089",
-      "name": "Green",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.090",
-      "name": "Black Green",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.091",
-      "name": "Sepia",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.093",
-      "name": "Skin",
-      "type": "game color ink"
-    },
-    {
-      "ref_gc": "72.094",
-      "name": "Black",
-      "type": "game color ink"
+      "ga_equivalent": "76.076",
+      "hp_equivalent": "Alien Purple"
     },
     {
       "ref_gc": "72.095",
       "name": "Glacier Blue",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#6B9CCE"
     },
     {
       "ref_gc": "72.096",
       "name": "Verdigris",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.098",
       "name": "Elfic Flesh",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.099",
       "name": "Skin Tone",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.100",
       "name": "Rosy Flesh",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.100",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.101",
       "name": "Off-White",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.102",
       "name": "Steel Grey",
       "citadel_equivalent": null,
-      "type": "game color"
-    },
-    {
-      "ref_gc": "72.103",
-      "name": "Fluorescent Yellow",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.104",
-      "name": "Fluorescent Green",
-      "type": "game color fluo"
+      "ga_equivalent": "72.102",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.106",
       "name": "Scarlet Blood",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.107",
       "name": "Athena Skin",
       "citadel_equivalent": "Bugmans Glow",
-      "type": "game color"
+      "ga_equivalent": "76.107",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.108",
       "name": "Succubus Skin",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.109",
       "name": "Toxic Yellow",
       "citadel_equivalent": "Dorn Yellow",
-      "type": "game color"
+      "ga_equivalent": "76.109",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.110",
       "name": "Sunset Orange",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.111",
       "name": "Nocturnal Red",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.111",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.112",
       "name": "Evil Red",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.113",
       "name": "Deep Magenta",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.114",
       "name": "Lustful Purple",
       "citadel_equivalent": "Dechala Lilac",
-      "type": "game color"
+      "ga_equivalent": "76.114",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.115",
       "name": "Grunge Brown",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.116",
       "name": "Midnight Purple",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.116",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.117",
       "name": "elfic Blue",
       "citadel_equivalent": "Calgar Blue",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.118",
       "name": "Sunrise Blue",
       "citadel_equivalent": "Kantor Blue",
-      "type": "game color"
+      "ga_equivalent": "76.118",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.119",
       "name": "Aquamarine",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.120",
       "name": "Abyssal Turquoise",
       "citadel_equivalent": "Stegadon Scale Green",
-      "type": "game color"
+      "ga_equivalent": "76.120",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.121",
       "name": "Ghost Green",
       "citadel_equivalent": "Ghost Blaster Green",
-      "type": "game color"
+      "ga_equivalent": "76.121",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.122",
       "name": "Bile Green",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.122",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.123",
       "name": "Angel Green",
       "citadel_equivalent": null,
-      "type": "game color"
+      "ga_equivalent": "76.123",
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.124",
       "name": "Gorgone Brown",
       "citadel_equivalent": "Mourfang Brown",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null
     },
     {
       "ref_gc": "72.145",
       "name": "Dirty Gray",
       "citadel_equivalent": "Deathworld Forest",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#7C8286"
     },
     {
       "ref_gc": "72.148",
       "name": "Warm Gray",
       "citadel_equivalent": "Rackarth Flesh",
-      "type": "game color"
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#B9ADA1"
     },
     {
       "ref_gc": "72.155",
       "name": "Charcoal",
       "citadel_equivalent": "Corvus Black",
-      "type": "game color"
-    },
+      "ga_equivalent": null,
+      "hp_equivalent": null,
+      "hex": "#4D4A4A"
+    }
+  ],
+  "game_color_wash": [
     {
-      "ref_gc": "72.156",
-      "name": "Fluorescent Orange",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.157",
-      "name": "Fluorescent Red",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.158",
-      "name": "Fluorescent Magenta",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.159",
-      "name": "Fluorescent Violet",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.160",
-      "name": "Fluorescent Blue",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.161",
-      "name": "Fluorescent Cold Green",
-      "type": "game color fluo"
-    },
-    {
-      "ref_gc": "72.600",
-      "name": "Vomit",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.601",
-      "name": "Fresh Blood",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.602",
-      "name": "Thick Blood",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.603",
-      "name": "Demon Blood",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.604",
-      "name": "Frost",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.605",
-      "name": "Green Rust",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.606",
-      "name": "Bile",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.607",
-      "name": "Acid",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.608",
-      "name": "Corrosion",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.609",
-      "name": "Rust",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.610",
-      "name": "Galvanic Corrosion",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "72.611",
-      "name": "Moss and Lichen",
-      "type": "game color special fx"
-    },
-    {
-      "ref_gc": "73.200",
-      "name": "Sepia",
-      "citadel_equivalent": "Seraphim Sepia",
-      "type": "game color wash"
-    },
-    {
-      "ref_gc": "73.201",
-      "name": "Black",
-      "citadel_equivalent": "Nuln Oil",
-      "type": "game color wash"
-    },
-    {
-      "ref_gc": "73.203",
-      "name": "Umber",
-      "citadel_equivalent": "Agrax Earthshade",
-      "type": "game color wash"
-    },
-    {
-      "ref_gc": "73.204",
+      "ref_gcw": "73.204",
       "name": "Flesh",
-      "citadel_equivalent": "Reikland Fleshshade",
-      "type": "game color wash"
+      "citadel_equivalent": "Reikland Fleshshade"
     },
     {
-      "ref_gc": "73.206",
-      "name": "Red",
-      "citadel_equivalent": null,
-      "type": "game color wash"
-    },
-    {
-      "ref_gc": "73.207",
-      "name": "Blue",
-      "citadel_equivalent": null,
-      "type": "game color wash"
-    },
-    {
-      "ref_gc": "73.208",
-      "name": "Yellow",
-      "citadel_equivalent": null,
-      "type": "game color wash"
-    },
-    {
-      "ref_gc": "73.209",
+      "ref_gcw": "73.209",
       "name": "Violet",
-      "citadel_equivalent": "Druchii Violet",
-      "type": "game color wash"
+      "citadel_equivalent": "Druchii Violet"
+    },
+    {
+      "ref_gcw": "73.203",
+      "name": "Umber",
+      "citadel_equivalent": "Agrax Earthshade"
+    },
+    {
+      "ref_gcw": "73.200",
+      "name": "Sepia",
+      "citadel_equivalent": "Seraphim Sepia"
+    },
+    {
+      "ref_gcw": "73.201",
+      "name": "Black",
+      "citadel_equivalent": "Nuln Oil"
+    },
+    {
+      "ref_gcw": "73.208",
+      "name": "Yellow",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_gcw": "73.206",
+      "name": "Red",
+      "citadel_equivalent": null
+    },
+    {
+      "ref_gcw": "73.207",
+      "name": "Blue",
+      "citadel_equivalent": null
+    }
+  ],
+  "game_color_fluo": [
+    {
+      "ref_gcf": "72.103",
+      "name": "Fluorescent Yellow"
+    },
+    {
+      "ref_gcf": "72.156",
+      "name": "Fluorescent Orange"
+    },
+    {
+      "ref_gcf": "72.157",
+      "name": "Fluorescent Red"
+    },
+    {
+      "ref_gcf": "72.158",
+      "name": "Fluorescent Magenta"
+    },
+    {
+      "ref_gcf": "72.159",
+      "name": "Fluorescent Violet"
+    },
+    {
+      "ref_gcf": "72.160",
+      "name": "Fluorescent Blue"
+    },
+    {
+      "ref_gcf": "72.104",
+      "name": "Fluorescent Green"
+    },
+    {
+      "ref_gcf": "72.161",
+      "name": "Fluorescent Cold Green"
+    }
+  ],
+  "game_color_special_fx": [
+    {
+      "ref_gcfx": "72.600",
+      "name": "Vomit"
+    },
+    {
+      "ref_gcfx": "72.601",
+      "name": "Fresh Blood"
+    },
+    {
+      "ref_gcfx": "72.602",
+      "name": "Thick Blood"
+    },
+    {
+      "ref_gcfx": "72.603",
+      "name": "Demon Blood"
+    },
+    {
+      "ref_gcfx": "72.604",
+      "name": "Frost"
+    },
+    {
+      "ref_gcfx": "72.605",
+      "name": "Green Rust"
+    },
+    {
+      "ref_gcfx": "72.606",
+      "name": "Bile"
+    },
+    {
+      "ref_gcfx": "72.607",
+      "name": "Acid"
+    },
+    {
+      "ref_gcfx": "72.608",
+      "name": "Corrosion"
+    },
+    {
+      "ref_gcfx": "72.609",
+      "name": "Rust"
+    },
+    {
+      "ref_gcfx": "72.610",
+      "name": "Galvanic Corrosion"
+    },
+    {
+      "ref_gcfx": "72.611",
+      "name": "Moss and Lichen"
+    }
+  ],
+  "game_color_mettalic": [
+    {
+      "ref_gcm": "72.052",
+      "name": "Silver"
+    },
+    {
+      "ref_gcm": "72.053",
+      "name": "Chainmail"
+    },
+    {
+      "ref_gcm": "72.054",
+      "name": "Dark Gunmetal"
+    },
+    {
+      "ref_gcm": "72.055",
+      "name": "Polished Gold"
+    },
+    {
+      "ref_gcm": "72.056",
+      "name": "Glorious Gold"
+    },
+    {
+      "ref_gcm": "72.057",
+      "name": "Bright Bronze"
+    },
+    {
+      "ref_gcm": "72.058",
+      "name": "Brassy Brass"
+    },
+    {
+      "ref_gcm": "72.059",
+      "name": "Hammered Copper"
+    },
+    {
+      "ref_gcm": "72.060",
+      "name": "Tinny Tin"
+    }
+  ],
+  "game_color_ink": [
+    {
+      "ref_gci": "72.082",
+      "name": "White"
+    },
+    {
+      "ref_gci": "72.093",
+      "name": "Skin"
+    },
+    {
+      "ref_gci": "72.085",
+      "name": "Yellow"
+    },
+    {
+      "ref_gci": "72.086",
+      "name": "Red"
+    },
+    {
+      "ref_gci": "72.083",
+      "name": "Magenta"
+    },
+    {
+      "ref_gci": "72.087",
+      "name": "Violet"
+    },
+    {
+      "ref_gci": "72.088",
+      "name": "Blue"
+    },
+    {
+      "ref_gci": "72.084",
+      "name": "Dark Turquoise"
+    },
+    {
+      "ref_gci": "72.089",
+      "name": "Green"
+    },
+    {
+      "ref_gci": "72.090",
+      "name": "Black Green"
+    },
+    {
+      "ref_gci": "72.091",
+      "name": "Sepia"
+    },
+    {
+      "ref_gci": "72.094",
+      "name": "Black"
     }
   ],
   "xpress_color": [
@@ -1030,7 +1097,7 @@
       "name": "Fairy Skin"
     }
   ],
-  "xpress_color_intense": [
+  "express_color_intense": [
     {
       "ref_xci": "72.477",
       "name": "Dreadnought Yellow",
