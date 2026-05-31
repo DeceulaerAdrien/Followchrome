@@ -1,52 +1,51 @@
-# Bienvenue sur mon projet Folochrome
+# Folochrome 🎨
 
-Folochrome est une application permettant de suivre et de lister les couleurs pour le maquettisme et le wargame des marques connues comme Vallejo ou Citadel.
-L'idée m'est venue en voyant l'application de Games Workshop, Citadel Color, qui propose un suivi uniquement pour les couleurs Citadel. Folochrome contiendra toutes les marques qui me viendront à l'esprit.
+**Folochrome** est une application backend (API) open source permettant de suivre et de lister les couleurs pour le maquettisme et le wargame à travers plusieurs marques (Vallejo, Citadel, Army Painter, etc.). 
 
-## Prérequis
+L'idée est née du constat que l'application officielle de Games Workshop (*Citadel Colour*) limite son suivi à sa propre marque. **Folochrome** résout ce problème en centralisant l'ensemble des fabricants du marché au sein d'une même architecture de données.
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants :
+## 🛠️ Stack Technique & Architecture Backend
 
-- **Python 3.13.3** : La version recommandée pour exécuter ce projet.
-- **Dépendances** : Installez les dépendances listées dans le fichier `requirements.txt`.
+Le cœur du projet est conçu pour valider des compétences clés en développement backend moderne :
+- **Framework :** Python 3.13 + FastAPI / Uvicorn pour une API asynchrone rapide et documentée.
+- **DevOps & Environnement :** Conteneurisation complète avec Docker et Docker Compose pour faciliter le déploiement.
+- **Sécurité & Configuration :** Gestion rigoureuse des configurations et des secrets via des variables d'environnement (`.env`).
 
-## Instructions de démarrage
+---
 
-1. **Installer les dépendances**  
-   Créez un environnement virtuel et installez les dépendances avec la commande suivante :
+## 🚀 Prérequis & Instructions de démarrage
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+Avant de commencer, assurez-vous d'avoir **Python 3.13.3** installé sur votre machine.
 
-2. **Configurer l'environnement**  
-   Renommez le fichier `.env-sample` en `.env` et remplissez les variables nécessaires.
+### 1. Installation classique (Local)
 
-3. **Lancer l'application**  
-   Utilisez `uvicorn` pour démarrer le serveur :
+**Installer les dépendances :**
+Créez un environnement virtuel et installez les dépendances :
+```bash
+pip install -r requirements.txt
+```
 
-   ```bash
-   uvicorn app.main:app --reload
-   ```
+**Configurer l'environnement :**
+Renommez le fichier `.env-sample` en `.env` et remplissez les variables nécessaires.
 
-## Utilisation avec Docker
+**Lancer l'application :**
+Utilisez uvicorn pour démarrer le serveur de développement :
+```bash
+uvicorn app.main:app --reload
+```
 
-Pour ceux qui préfèrent Docker, tout est déjà configuré dans le fichier `docker-compose.yml`. Voici les étapes :
+---
 
-1. **Mettre en place les variables d'environnement**
-   Renommez le fichier `.env-sample` en `.env` et écrivez vos variables d'environnement.
+### 🐳 Utilisation avec Docker
 
-2. **Construire et démarrer les conteneurs**
-   Exécutez la commande suivante :
+Pour un déploiement rapide sans installer Python en local, tout est déjà configuré via Docker Compose.
 
+1. **Variables d'environnement :** Renommez le fichier `.env-sample` en `.env` et ajustez vos variables.
+2. **Démarrer les conteneurs :** Exécutez la commande suivante :
    ```bash
    docker-compose up --build
    ```
+3. **Accéder à l'API :** Une fois les conteneurs démarrés, l'API sera pleinement accessible à l'adresse : `http://localhost:8000`
 
-3. **Accéder à l'API**
-   Une fois les conteneurs démarrés, l'API sera accessible à l'adresse suivante :
-   [http://localhost:8000](http://localhost:8000)
-
-## Recommandation
-
-Pour un environnement de développement optimal, utilisez un environnement virtuel Python 3.13.3
+## 💡 Recommandation
+Pour un environnement de développement optimal hors Docker, l'utilisation d'un environnement virtuel configuré en Python 3.13.3 est fortement recommandée.
