@@ -49,3 +49,11 @@ Pour un déploiement rapide sans installer Python en local, tout est déjà conf
 
 ## 💡 Recommandation
 Pour un environnement de développement optimal hors Docker, l'utilisation d'un environnement virtuel configuré en Python 3.13.3 est fortement recommandée.
+
+## 📊 Statut du projet & Retours d'expérience
+
+Le projet est actuellement en pause au stade de prototype (PoC) fonctionnel au niveau de son infrastructure (le conteneur Docker et le serveur FastAPI se lancent correctement). 
+
+**Enseignements techniques tirés de ce projet :**
+- **Problématique de la donnée :** La saisie manuelle des catalogues (plus de 3 000 lignes de JSON pour la gamme Vallejo) s'est avérée être un point de blocage majeur pour la viabilité du projet à long terme. 
+- **Axe d'amélioration identifié :** Pour industrialiser l'application, l'étape suivante consisterait à remplacer la saisie manuelle par le développement d'un script de Web Scraping pour automatiser la récupération des nomenclatures des fabricants, ou à consommer une API tierce.
